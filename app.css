@@ -1,0 +1,9 @@
+
+.debug .row > * {
+	border: 2px solid cornflowerblue;
+	
+}
+
+.debug .show {
+	border: 2px solid cornflowerblue;
+}
